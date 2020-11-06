@@ -1,0 +1,148 @@
+#title{
+  background-color: #ff4368;
+  color: #fff;
+
+}
+h1{
+  font-family: "Montserrat-Black";
+  font-weight: bold;
+  font-size: 3.5rem;
+  line-height: 1.5;
+
+}
+h3{
+  font-family:sans-serif ;
+
+}
+.container-fluid{
+  padding: 1% 15%;
+}
+p {
+  color: #8f8f8f;
+}
+body{
+  font-family:"Montserrat-Black";
+  }
+navbar-brand{
+    font-family: sans-serif;
+    text-decoration-color:#fff;
+    font-size-adjust: auto;
+    font-weight: bold;
+}
+.navbar{
+  font-family:"Ubantu";
+  text-decoration-color: #fff;
+  font-size-adjust: auto;
+  font-weight: bold;
+  padding:0 0 4.5rem ;
+
+}
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+.download-button{
+
+  margin: 5% 3% 5% 0%;
+}
+.title-image
+{
+width: 30%;
+transform:rotate(25deg);
+position: absolute;
+}
+#features{
+  padding: 7% 15%;
+  background-color: #fff;
+  position: relative;
+
+}
+.feature box{
+  text-align: center;
+  padding: 5%;
+}
+#testimonials
+{
+
+  text-align: center;
+  background-color: #ef8172;
+  color:#fff;
+}
+.testimonial-image{
+  width: 10%;
+  border-radius:100%;
+  margin: 20px;
+}
+#press
+{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.press-logo
+{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+#cta {
+  background-color: #ff4c68;
+  color: #fff;
+  padding: 7% 15%;
+  text-align: center;
+}
+#footer{
+  padding: 7% 15%;
+  text-align: center;
+}
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.cta-heading
+{
+font-family:"Montserrat-Black";
+font-size: 3.5rem;
+line-height: 1.5;
+}
+@media(max-width:1028px)
+  .title-image{
+    position: static;
+  }
+#title{
+  text-align: center;
+}
+}
